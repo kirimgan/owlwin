@@ -1,0 +1,1 @@
+[10-Jan-2017 22:15:04 UTC] PHP Fatal error:  Class 'Laracasts\Flash\FlashServiceProvider' not found in /home/revakirill/public_html/cvapplication/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
